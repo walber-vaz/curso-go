@@ -1,0 +1,2 @@
+# curso-go
+Estudando Go

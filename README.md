@@ -8,7 +8,7 @@
 
 [Playlist YouTube](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg)
 
-Reposiotrio coltado para estudos da linguagem Golang
+Reposiotrio para estudos da linguagem Golang
 
 ## Documentação
 

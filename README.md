@@ -12,7 +12,7 @@ Reposiotrio coltado para estudos da linguagem Golang
 
 ## Documentação
 
-[Go doc][https://go.dev/doc/]
+[Go doc](https://go.dev/doc/)
 
 ## Creditos
 

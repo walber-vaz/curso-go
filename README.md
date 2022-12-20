@@ -1,7 +1,7 @@
 # Curso de Go
 
 <div align="center">
-  <img src="BLUE_GOPHER.png" width="120" />
+  <img src="BLUE_GOPHER.png" width="200" />
 </div>
 
 ## Playlist do curso
